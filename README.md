@@ -17,7 +17,7 @@ feh output.ppm
 ```
 
 ## Sites which helped me while making and learning
-https://u.osu.edu/cstutorials/2018/09/28/how-to-debug-c-program-using-gdb-in-6-simple-steps/
-http://smurf.mimuw.edu.pl/external_slides/Przeksztalcenia_geometryczne/Przeksztalcenia_geometryczne.html
-https://www.freecodecamp.org/news/how-to-code-your-first-algorithm-draw-a-line-ca121f9a1395/
 
+ - https://u.osu.edu/cstutorials/2018/09/28/how-to-debug-c-program-using-gdb-in-6-simple-steps/
+ - http://smurf.mimuw.edu.pl/external_slides/Przeksztalcenia_geometryczne/Przeksztalcenia_geometryczne.html
+ - https://www.freecodecamp.org/news/how-to-code-your-first-algorithm-draw-a-line-ca121f9a1395/
